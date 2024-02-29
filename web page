@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+
+    <section>
+        <h2>My Information</h2>
+        <p><strong>Username:</strong> tkgunn</p>
+        <p><strong>Course Name:</strong> IS117</p>
+        <p><strong>Section:</strong> Section 004</p>
+    </section>
+
+
+
+</body>
+</html>
